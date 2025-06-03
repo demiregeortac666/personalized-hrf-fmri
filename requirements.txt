@@ -1,0 +1,8 @@
+numpy>=1.20.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# Optional dependencies for TVB integration
+# Uncomment these lines if you need TVB integration:
+# tvb-framework>=2.0.0
+# tvb-library>=2.0.0 
