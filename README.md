@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-* **Demir Ege Ortaç** - [GitHub Profile](https://github.com/demiregeortac)
+* **Demir Ege Ortaç** - [GitHub Profile](https://github.com/demiregeortac666)
 
 ## Acknowledgements
 
